@@ -24,7 +24,7 @@ body:
       - label: 我已经确认之前没有issue涉及此BUG
         required: true
   - type: input
-    id: subconverter-version
+    id: MRConverter-Version
     attributes:
       label: subconverter版本
       description: subconverter版本
